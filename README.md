@@ -1,2 +1,2 @@
 # learnPy
-First repo while learning Py on Udacity
+First repo while learning Py on Udacity. This repo is about transposing data in a text file.
